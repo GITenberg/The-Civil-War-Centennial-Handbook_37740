@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39026'
     url: http://www.gutenberg.org/2009/agents/39026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37740#The-Civil-War-Centennial-Handbook
 gutenberg_issued: '2011-10-13'
 gutenberg_type: Text
 identifiers:
